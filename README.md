@@ -1,7 +1,7 @@
 # fizzbuzz
-A normal fizzbuzz in normal C
-needs -Wno-conditional-type-mismatch to compile without warnings
-only works on 64bit little endian systems, I assume
+A normal fizzbuzz in normal C  
+needs -Wno-conditional-type-mismatch to compile without warnings  
+only works on 64bit little endian systems, I assume  
 tested on x86_64 with both glibc and musl, and riscv64 with glibc
 
 ```c
